@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
+# Rodolphe project
 
-TODO: Document your project here
